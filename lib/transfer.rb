@@ -9,7 +9,7 @@ class Transfer
   end
 
   def valid?
-
+    BankAccount.name
   end
 
 end
